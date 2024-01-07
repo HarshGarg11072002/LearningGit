@@ -1,4 +1,4 @@
 # LearningGit
 YUP 
 <br>
-Author - Harsh Garg
+Author - Harsh Garg Ji
